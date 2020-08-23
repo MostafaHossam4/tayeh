@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "225842997415",
+    "firebase_url": "https://tayeh-89e75.firebaseio.com",
+    "project_id": "tayeh-89e75",
+    "storage_bucket": "tayeh-89e75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225842997415:android:64f278e82a8e4c4c8c1382",
+        "android_client_info": {
+          "package_name": "com.example.tayeh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225842997415-mj7htgogu0qq2k6ajoq63ep43fjd2m8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfqzyDOv0kHrfnv3oO-acFJN9_cJgVzGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225842997415-mj7htgogu0qq2k6ajoq63ep43fjd2m8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
