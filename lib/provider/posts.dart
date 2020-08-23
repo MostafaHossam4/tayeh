@@ -54,7 +54,7 @@ class Posts with ChangeNotifier {
           return "success";
         } else {;
           return "something is wrong";
-          print('not a 200 requesy ${response.data}')
+          print('not a 200 request ${response.data}');
         }
       } on DioError catch (e) {
         print(e.response);
